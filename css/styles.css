@@ -1,0 +1,27 @@
+:root {
+    --blanco: #ffffff;
+    --oscuro: #212121;
+    --gris: #757575;
+    --primario: #ffc107;
+    --secundario: #0097a7;
+}
+
+/* Hack 1rem = 10p */
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 16px;
+    font-family: "Krub", sans-serif;
+}
+
+
+.title {
+    font-size: 3.8rem;
+    text-align: center;
+}
+
+span {
+    font-size: 2rem;
+}
